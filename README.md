@@ -1,1 +1,4 @@
 # GasThermochemistry
+[![Maintainability](https://api.codeclimate.com/v1/badges/ad680f1521600a522f0a/maintainability)](https://codeclimate.com/github/Nevensky/GasThermochemistry/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/ad680f1521600a522f0a/test_coverage)](https://codeclimate.com/github/Nevensky/GasThermochemistry/test_coverage)
+
+A simple code for calculating molecular thermodynamic properties from *ab initio* frequency calculations. Special emphasis has been put on treating low-frequency (< 100cm<sup>-1</sup>) normal modes as free rotors through a switching function as recommended by Grimme. 
